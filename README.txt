@@ -1,0 +1,1 @@
+It's a python script using the pynput library to monitor mouse and keyboard events. This script logs mouse movements, clicks, and scrolls, as well as keyboard key presses. The logs are then written to a file named "LogData.txt" with timestamps.
